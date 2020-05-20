@@ -9,11 +9,15 @@
         <version>2.2.7.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+    <modules>
+        <module>../normal</module>
+    </modules>
     <groupId>ink.chow.boot</groupId>
     <artifactId>parent</artifactId>
     <version>1.0.0</version>
     <name>parent</name>
     <description>Spring Boot Parent</description>
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>11</java.version>
