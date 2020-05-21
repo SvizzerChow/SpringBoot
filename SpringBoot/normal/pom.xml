@@ -7,7 +7,7 @@
         <groupId>ink.chow.boot</groupId>
         <artifactId>parent</artifactId>
         <version>1.0.0</version>
-        <relativePath>../parent/pom.xml</relativePath>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>ink.chow.boot</groupId>
     <artifactId>normal</artifactId>
